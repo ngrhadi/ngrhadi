@@ -4,18 +4,7 @@
 
 My name is `Adi Nugraha`, you can call me `Mas`... <br/>
 as you know you was in here, so let me tell you, I'm a `senior geologist`/`gis programmer` but I'm human, <br/>
-`hopefully you to`, so when you feel this introduction is to much, please read more :point_down:
-
-<br/>
-
----
-
-### One of my favorite job in 2021-2022 :dart:
-As one man one show, fullstack JavaScript-React-Openlayers-Postgres, for more information you can see a part of demo [here](https://youtu.be/neQW18Q9SUk)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngrhadi&repo=digitizing&theme=github_dark)](https://github.com/ngrhadi/digitizing)
-
----
+`hopefully you to`, so when you feel this introduction is to much, please click more :point_down:
 
 </div>
 
@@ -31,22 +20,21 @@ As one man one show, fullstack JavaScript-React-Openlayers-Postgres, for more in
   </div>
   
 <details>
-	<summary>see more</summary>
+	<summary>more again</summary>
   <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrhadi&show_icons=true&theme=transparent) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrhadi&langs_count=8&show_icons=true&theme=transparent)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ngrhadi)
+
+### *thank's for your evort*
 
 </div>
 </details>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ngrhadi)
-
-### thank's for your evort
-
-</details>
+	</details>
+	</div>
+<br/>
 
 <div align="center">
 
