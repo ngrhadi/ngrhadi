@@ -6,6 +6,7 @@ My name is `Adi Nugraha`, you can call me `Mas`... <br/>
 as you know you was in here, so let me tell you, I'm a `senior geologist`/`gis programmer` but I'm human, <br/>
 `hopefully you to`, so when you feel this introduction is to much, please click more :point_down:
 
+	
 </div>
 
 <div align="center">
@@ -14,6 +15,7 @@ as you know you was in here, so let me tell you, I'm a `senior geologist`/`gis p
 	<summary>more</summary>
 
   <div align="center">
+	  <br/>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngrhadi&theme=github_dark)
 
@@ -22,8 +24,12 @@ as you know you was in here, so let me tell you, I'm a `senior geologist`/`gis p
 <details>
 	<summary>more again</summary>
   <div align="center">
+	  <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrhadi&show_icons=true&theme=transparent) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrhadi&show_icons=true&theme=transparent) 
+	  <br/>
+	  <br/>
+	  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrhadi&langs_count=8&show_icons=true&theme=transparent)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ngrhadi)
