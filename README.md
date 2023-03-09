@@ -32,7 +32,7 @@ as you know you was in here, so let me tell you, I'm a `senior geologist`/`gis p
 	  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrhadi&langs_count=8&show_icons=true&theme=transparent)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ngrhadi)
+
 
 ### *thank's for your evort*
 
